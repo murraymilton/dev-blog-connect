@@ -28,11 +28,11 @@ const App = () => {
             </div>
             <div className='comment'>
                 <a href="/" className='avatar'>
-                    <img src={pic3} alt="profile picture" />
+                    <img src={pic2} alt="profile picture" />
                 </a>
                 <div className="content">
                     <a hreh="/" className="author">
-                        Jonny
+                        Stephanie
                     </a>
                     <div className="metadata">
                         <span className='date'>
